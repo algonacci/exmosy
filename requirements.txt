@@ -1,5 +1,5 @@
 absl-py==1.2.0
-apturl==0.5.2
+# apturl==0.5.2
 astunparse==1.6.3
 attrs==22.1.0
 autopep8==1.7.0
